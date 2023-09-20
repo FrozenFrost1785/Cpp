@@ -1,2 +1,2 @@
 # Cpp
-Cpp basic stuffs
+Cpp basic stuff
